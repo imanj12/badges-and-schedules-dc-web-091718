@@ -1,7 +1,7 @@
 # Write your code here.
 
 def badge_maker(name)
-  return "Hello, my name is #{name}."
+  "Hello, my name is #{name}."
 end
 
 def batch_badge_creator(attendees)
@@ -11,3 +11,4 @@ def batch_badge_creator(attendees)
   end
   badge_messages
 end
+
